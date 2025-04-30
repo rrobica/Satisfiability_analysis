@@ -48,7 +48,5 @@ Proiect realizat ca parte a disciplinei *Metode și practici în informatică* �
 
 ## 🔗 Linkuri utile
 
-- Lucrarea completă în LaTeX: [`main.tex`](main.tex)
-- Vizualizare rezultate în Excel: [`Analiza date satisfiabilitate.xlsx`](Analiza%20date%20satisfiabilitate.xlsx)
 - SATLIB Benchmark: https://www.cs.ubc.ca/~hoos/SATLIB/
 
