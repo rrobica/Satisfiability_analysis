@@ -8,8 +8,7 @@ Acest proiect conține implementarea a trei algoritmi clasici pentru rezolvarea 
 - `Memory fix.py` — cod principal pentru rularea experimentelor și logarea rezultatelor în `.csv`;
 - `sat_results_comparison_all.csv` — rezultate experimentale pe toate fișierele testate;
 - `Analiza date satisfiabilitate.xlsx` — analiză vizuală (Excel) cu grafice comparative;
-- `main.tex` — lucrarea științifică redactată în LaTeX, cu grafice și interpretări;
-- `/img/` — grafice generate din Excel: timp mediu, memorie, distribuție SAT/UNSAT.
+- `Articol Satisfiabilitate.pdf` — lucrarea științifică redactată în LaTeX, cu grafice și interpretări;
 
 ## 🧩 Exemplu abordat: Sudoku 4x4
 
