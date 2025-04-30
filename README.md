@@ -29,7 +29,6 @@ Proiectul conține un exemplu complet în care un joc Sudoku 4x4 este transforma
 
 - DPLL este cel mai eficient dintre cei trei algoritmi testați.
 - Rezoluția este completă dar ineficientă pe instanțe reale.
-- Sudoku 4x4 a fost satisfiabil și a servit drept exemplu central în lucrare.
 - Timeout-urile în Rezoluție au fost tratate ca `NOT SAT`.
 
 ## 📚 Bibliografie
