@@ -10,10 +10,6 @@ Acest proiect conține implementarea a trei algoritmi clasici pentru rezolvarea 
 - `Analiza date satisfiabilitate.xlsx` — analiză vizuală (Excel) cu grafice comparative;
 - `Articol Satisfiabilitate.pdf` — lucrarea științifică redactată în LaTeX, cu grafice și interpretări;
 
-## 🧩 Exemplu abordat: Sudoku 4x4
-
-Proiectul conține un exemplu complet în care un joc Sudoku 4x4 este transformat într-o formulă SAT în CNF, utilizat ca exemplu de referință (`running example`) în testarea și explicarea fiecărui algoritm.
-
 ## 🧪 Descriere experiment
 
 - Formule CNF au fost testate din două surse:
